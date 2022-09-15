@@ -1,9 +1,6 @@
-# React TypeScript Starter Pack
+React portfolio project
+In this project you need to log in in your account (random email) and username. After that you can add any task which you need to do.
+All data is synchronized with the server.
+The user is also saved to local storage so you don't have to log in again.
 
-To use this template click `Use this template`
-
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+-[DEMO LINK](https://kras4iy.github.io/react-todo-app-with-api/)
